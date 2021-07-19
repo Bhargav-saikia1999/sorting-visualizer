@@ -6,5 +6,5 @@ This is a simple tool build for visualising some common sorting algorithms.
 
 Run the following commands in the root directory after downloading/cloning the code.
 
-`**npm install**`
-`**npm start**`
+<code><b>npm install</b></code>
+<code><b>npm start</b></code>
